@@ -1,5 +1,5 @@
 package ru.test.helloworld
 
 object HelloWorld extends App {
-  println("Hello World  for Deploy!")
+  println("Hello World  Guys!")
 }
