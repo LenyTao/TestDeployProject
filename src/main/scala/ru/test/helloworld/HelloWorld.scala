@@ -9,4 +9,5 @@ object HelloWorld extends App {
 
   println(s"Hello World ${person.getPerson()}!")
   println(s"Hello World ${person2.getPerson()}!")
+  println(s"Hello World ${person3.getPerson()}!")
 }
